@@ -2,6 +2,18 @@
 
 [TOC]
 
+## General medical physics tool
+
+### PyMedPhys
+
+- *repository*: <https://github.com/pymedphys/pymedphys>
+
+- *documentation*: <https://docs.pymedphys.com/>
+
+- *Overview*:
+
+  > PyMedPhys aims to be a Medical Physics open source [monorepo](https://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext) where we can all store, review, use, and learn off of each other’s code. It is a library of tools that we all have access to and, because of its [license](https://choosealicense.com/licenses/agpl-3.0/), will all have access to whatever it becomes in the future. It is inspired by the collaborative work of our physics peers in astronomy and their [Astropy Project](http://www.astropy.org/).
+
 ## DICOM manipulation
 
 ### Pydicom
