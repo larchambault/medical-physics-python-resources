@@ -148,3 +148,12 @@
   > Take a look at the [screenshots](https://bitbucket.org/tohccmedphys/qatrackplus/wiki/screenshots) to get an idea of the interface.
 
 
+## Imaging
+
+### Spekpy
+
+- *Website*: https://bitbucket.org/spekpy/spekpy_release/wiki/Home
+- *Repository*: https://bitbucket.org/spekpy/spekpy_release/src/master/
+- *Overview*
+
+> SpekPy is a powerful and free software toolkit for calculating and manipulating x-ray tube spectra. The code is written in the Python programming language. It can be used in a Python interpreter or from a Python script. For more information on SpekPy, please see [Further information](https://bitbucket.org/spekpy/spekpy_release/wiki/Further%20information).
