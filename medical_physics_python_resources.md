@@ -18,7 +18,7 @@
 
 ### Pydicom
 
-- *repository*: https://github.com/pydicom/pydicom
+- *Repository*: https://github.com/pydicom/pydicom
 
 - *Overview*:
 
@@ -27,14 +27,27 @@
   > Pydicom makes it easy to read these complex files into natural pythonic structures for easy manipulation. Modified datasets can be written again to DICOM format files.
 
 - *Python version*
-
   - 2.7
   - 3.4+
+
+### RT-Utils
+- A minimal Python library for RT Struct manipulation
+- *Repository*: https://github.com/qurit/rt-utils
+- *Overview*:
+
+> RT-Utils is motivated to allow physicians and other users to view the results of segmentation performed on a series of DICOM images. RT-Utils allows you to create or load RT Structs, extract 3d masks from RT Struct ROIs, easily add one or more regions of interest, and save the resulting RT Struct in just a few lines!
+
+### DicomRTTool
+- *Repository*: https://github.com/brianmanderson/Dicom_RT_and_Images_to_Mask
+- *Overview*
+
+> DicomRTTool, which is designed to alleviate several of the most time-consuming aspects of data preparation by quickly identifying unique region of interest (ROI) names and where image sets with all ROIs are located and then converting DICOM images and RT structures into NumPy arrays and SimpleITK images. It also allows for the conversion of prediction NumPy arrays to DICOM RT structures.
+- *Publication*: Anderson et al. PRO, 2021, 10.1016/j.prro.2021.02.003
+
 
 ### Dicompyler core 
 
 - *repository*: https://dicompyler-core.readthedocs.io/en/latest/readme.html
-
 - *Overview*:
 
   > A library of core radiation therapy modules for DICOM / DICOM RT used by [dicompyler](http://www.dicompyler.com/). This package includes:
